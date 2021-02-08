@@ -1,6 +1,6 @@
 # 32KB Flash Cart By Veund
 
-This is my 32KB flash cart that i created. do note its pretty much the same as the insideGadgets 32KB flash card linked below as i followed their guide on youtube and got their advice on the flash chip to use. You will also require a GBxCart from insideGadgets yo load a rom onto ther cart.
+This is my 32KB flash cart that i created. do note its pretty much the same as the insideGadgets 32KB flash card linked below as i followed their guide on youtube and got their advice on the flash chip to use. You will also require a GBxCart from insideGadgets to load a rom onto ther cart.
 
 The differances between gerbers are just different soldermasks on the back
 
