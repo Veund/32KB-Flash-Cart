@@ -9,3 +9,6 @@ this was a learning experiance for myself and wanted to share it with you all ho
 https://shop.insidegadgets.com/product/gameboy-32kb-flash-cart/
 
 https://youtu.be/xvVj62UxEAY
+
+If you would like to support myself or the project buy me a Ko-fi
+https://ko-fi.com/veund
