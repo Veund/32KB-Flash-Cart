@@ -5,4 +5,5 @@ this is my 32KB flash cart that i created. do note its pretty much the same as t
 this was a learning experiance for myself and wanted to share it with you all hope you like the trex!
 
 https://shop.insidegadgets.com/product/gameboy-32kb-flash-cart/
+
 https://youtu.be/xvVj62UxEAY
